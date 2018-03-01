@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:1:1-59:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a3b61d9f072d0ef12ee1de5ece37cf0d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\5598a65d2e2f95570feec561d98ab089\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cff93d4f160398e52bb0c4e88487a04e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c0ca2665743cd0915f66e0a2823345\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbadd808f613cbf8a5dfe3b737271421\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\74c822ad823479f08e9ad3d3d68d057d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66b952d0301f00541616d600ea7fa404\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7bf70d80e471baf1b73b3e048ae8a02e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\625f8c798585d04fbc44b9d9ed1664f2\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:1:1-59:12
+	package
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a3b61d9f072d0ef12ee1de5ece37cf0d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a3b61d9f072d0ef12ee1de5ece37cf0d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\5598a65d2e2f95570feec561d98ab089\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\5598a65d2e2f95570feec561d98ab089\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cff93d4f160398e52bb0c4e88487a04e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cff93d4f160398e52bb0c4e88487a04e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c0ca2665743cd0915f66e0a2823345\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c0ca2665743cd0915f66e0a2823345\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbadd808f613cbf8a5dfe3b737271421\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbadd808f613cbf8a5dfe3b737271421\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\74c822ad823479f08e9ad3d3d68d057d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\74c822ad823479f08e9ad3d3d68d057d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66b952d0301f00541616d600ea7fa404\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66b952d0301f00541616d600ea7fa404\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7bf70d80e471baf1b73b3e048ae8a02e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7bf70d80e471baf1b73b3e048ae8a02e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\625f8c798585d04fbc44b9d9ed1664f2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\625f8c798585d04fbc44b9d9ed1664f2\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a3b61d9f072d0ef12ee1de5ece37cf0d\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:15:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:20:22-68
+application
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:22:5-57:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a3b61d9f072d0ef12ee1de5ece37cf0d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a3b61d9f072d0ef12ee1de5ece37cf0d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\5598a65d2e2f95570feec561d98ab089\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\5598a65d2e2f95570feec561d98ab089\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cff93d4f160398e52bb0c4e88487a04e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cff93d4f160398e52bb0c4e88487a04e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c0ca2665743cd0915f66e0a2823345\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c0ca2665743cd0915f66e0a2823345\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbadd808f613cbf8a5dfe3b737271421\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbadd808f613cbf8a5dfe3b737271421\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\74c822ad823479f08e9ad3d3d68d057d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\74c822ad823479f08e9ad3d3d68d057d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66b952d0301f00541616d600ea7fa404\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66b952d0301f00541616d600ea7fa404\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7bf70d80e471baf1b73b3e048ae8a02e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7bf70d80e471baf1b73b3e048ae8a02e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\625f8c798585d04fbc44b9d9ed1664f2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\625f8c798585d04fbc44b9d9ed1664f2\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:26:9-40
+meta-data#com.baidu.speech.APP_ID
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:28:9-30:40
+	android:value
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:29:13-51
+meta-data#com.baidu.speech.API_KEY
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:31:9-33:56
+	android:value
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:33:13-53
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:32:13-52
+meta-data#com.baidu.speech.SECRET_KEY
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:34:9-36:64
+	android:value
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:36:13-61
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:35:13-55
+service#com.baidu.speech.VoiceRecognitionService
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:38:13-68
+activity#com.baidu.tts.sample.MainActivity
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:41:9-47:20
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:41:19-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:45:27-74
+activity#com.baidu.tts.sample.SynthActivity
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:48:9-50:39
+	android:label
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:49:13-62
+activity#com.baidu.tts.sample.MiniActivity
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:51:9-53:37
+	android:label
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:53:13-34
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:52:13-61
+activity#com.baidu.tts.sample.SaveFileActivity
+ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:54:9-56:40
+	android:label
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from D:\demo1\baidudemo\app\src\main\AndroidManifest.xml:55:13-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a3b61d9f072d0ef12ee1de5ece37cf0d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\5598a65d2e2f95570feec561d98ab089\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\5598a65d2e2f95570feec561d98ab089\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cff93d4f160398e52bb0c4e88487a04e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cff93d4f160398e52bb0c4e88487a04e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c0ca2665743cd0915f66e0a2823345\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c0ca2665743cd0915f66e0a2823345\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbadd808f613cbf8a5dfe3b737271421\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbadd808f613cbf8a5dfe3b737271421\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\74c822ad823479f08e9ad3d3d68d057d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\74c822ad823479f08e9ad3d3d68d057d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66b952d0301f00541616d600ea7fa404\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\66b952d0301f00541616d600ea7fa404\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7bf70d80e471baf1b73b3e048ae8a02e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7bf70d80e471baf1b73b3e048ae8a02e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\625f8c798585d04fbc44b9d9ed1664f2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\625f8c798585d04fbc44b9d9ed1664f2\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a3b61d9f072d0ef12ee1de5ece37cf0d\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\YFPHILPS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a3b61d9f072d0ef12ee1de5ece37cf0d\AndroidManifest.xml:26:9-47
